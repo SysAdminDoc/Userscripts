@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Auto hides child comments in old Reddit, just like RES. Adds toggle to show/hide them individually.
-// @author       RES-inspired
+// @author       https://github.com/SysAdminDoc
 // @match        https://old.reddit.com/*
 // @grant        none
 // ==/UserScript==
