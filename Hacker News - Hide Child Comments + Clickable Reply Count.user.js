@@ -3,7 +3,7 @@
 // @namespace    https://news.ycombinator.com/
 // @version      1.5
 // @description  Hides child comments by default on Hacker News and allows toggling by clicking the reply count or [+]/[–] button like Reddit UX style.
-// @author       You
+// @author       https://github.com/SysAdminDoc
 // @match        https://news.ycombinator.com/item?id=*
 // @grant        none
 // ==/UserScript==
