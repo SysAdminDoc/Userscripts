@@ -1,11 +1,10 @@
 // ==UserScript==
 // @name          Reddit Toggle Custom CSS
 // @description   Persistently disable/re-enable custom subreddit styles via a userscript command
-// @author        chocolateboy
-// @copyright     chocolateboy
+// @author        SysAdminDoc
+// @copyright     SysAdminDoc
 // @version       1.5.2
-// @namespace     https://github.com/chocolateboy/userscripts
-// @license       GPL: http://www.gnu.org/copyleft/gpl.html
+// @namespace     https://github.com/SysAdminDoc
 // @include       http://reddit.com/r/*
 // @include       https://reddit.com/r/*
 // @include       http://*.reddit.com/r/*
