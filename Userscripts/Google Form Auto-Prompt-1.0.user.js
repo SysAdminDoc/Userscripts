@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Prompt to fill text inputs in order on Google Forms
 // @author       MattParker
-// @match        https://docs.google.com/forms/d/e/1FAIpQLSdfQA8Ug8paRbHZMEfDp4SHP9fuYkjmEGLhneZtBG-Rp8enkQ/viewform
+// @match        https://docs.google.com/forms/d/e/*
 // @grant        none
 // ==/UserScript==
 
