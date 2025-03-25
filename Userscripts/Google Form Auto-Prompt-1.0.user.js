@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Google Form Auto-Prompt
+// @name         Google Form Auto-Prompt v1
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Prompt to fill text inputs in order on Google Forms
